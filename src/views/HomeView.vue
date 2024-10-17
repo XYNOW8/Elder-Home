@@ -2,7 +2,7 @@
   <div class="container">
     <h1 class="custom-font">Welcome to the Elder Home</h1>
 
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMFT8TWi5dQF3kZCLOx4gcHgMx9YKkfwt1Q&s" alt="Elderly people smiling" />
+    <!-- <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQkMFT8TWi5dQF3kZCLOx4gcHgMx9YKkfwt1Q&s" alt="Elderly people smiling" /> -->
   </div>
 </template>
 
